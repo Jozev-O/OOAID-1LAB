@@ -1,27 +1,34 @@
 ﻿using System;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ООАиД_ЛБ1
 {
-    internal class Program
+    class Program
     {
+        private const int TIME_OF_SLEEP = 20;
         static void Main(string[] args)
         {
-            Print("Hello, World!");
-            Console.ReadLine();
+            string someMes = "Loremus muchachas. Here come a lot of churkas. We must run!!";
+            Print(someMes);
+            Thread.Sleep(1000);
+            Delete();
+            Print();
         }
-        static async void Print(string input)
+        static async void Print(string input = "Hello, World!")
         {
             for (int i = 0; i < input.Length; i++)
             {
                 Console.Write(input[i]);
-                Thread.Sleep(60);
+                Thread.Sleep(TIME_OF_SLEEP);
             }
         }
-        static void Beep(char input)
+        static void Delete()
         {
-            int chas = Convert.ToInt32(input);
-            Console.Beep(input, chas);
+            while (Console.CursorLeft != 0)
+            {
+                Thread.Sleep(TIME_OF_SLEEP / 2);
+                Console.Write("\b ");
+                Console.CursorLeft = --Console.CursorLeft;
+            }
         }
     }
 }
