@@ -1,0 +1,15 @@
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.AssemblyInfoInputs.cache
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.AssemblyInfo.cs
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.sourcelink.json
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\bin\Debug\net8.0\ООАиД_ЛБ1.exe
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\bin\Debug\net8.0\ООАиД_ЛБ1.deps.json
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\bin\Debug\net8.0\ООАиД_ЛБ1.runtimeconfig.json
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\bin\Debug\net8.0\ООАиД_ЛБ1.dll
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\bin\Debug\net8.0\ООАиД_ЛБ1.pdb
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.dll
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\refint\ООАиД_ЛБ1.dll
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.pdb
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ООАиД_ЛБ1.genruntimeconfig.cache
+C:\Users\BOSS\Desktop\ooaid_repos\ООАиД_ЛБ1\ООАиД_ЛБ1\obj\Debug\net8.0\ref\ООАиД_ЛБ1.dll
